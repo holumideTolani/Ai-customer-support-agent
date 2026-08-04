@@ -158,6 +158,6 @@ Olumide Tolani
 
 AI Automation Engineer passionate about building intelligent workflow automations using AI, APIs, and modern automation tools.
 
-- LinkedIn: ([](https://www.linkedin.com/in/tolani-olumide-541823243/)
-- Portfolio: ([](https://lummyportfolio-phi.vercel.app/))
+- LinkedIn: (https://www.linkedin.com/in/tolani-olumide-541823243/)
+- Portfolio: (https://lummyportfolio-phi.vercel.app/)
 - Email: (holumidetolani@gmail.com)
