@@ -90,3 +90,74 @@ The workflow receives customer messages through a webhook, identifies the custom
   "response": "Hi Olumide Tolani, I understand you're having trouble accessing your account. To reset your password, click the 'Forgot Password' link on the login page and follow the instructions sent to your email. Please let us know if you need any further assistance."
 }
 ```
+
+```
+##  Screenshots
+
+## Workflow
+
+![Workflow](screenshots/workflow-overview.png)
+
+
+
+### Knowledge Base
+
+![Knowledge Base](screenshots/google-sheet.png)
+
+
+
+### API Request
+
+![Request](screenshots/postman-request.png)
+
+
+
+### API Response
+
+![Response](AI customer support Agent/<img width="1920" height="1080" alt="postman-response png" src="https://github.com/user-attachments/assets/e3c35e91-8d08-4199-92c7-d5ee36061470" />
+<img width="1920" height="1080" alt="postman-request png" src="https://github.com/user-attachments/assets/0ea9c68c-5427-4f2f-b27f-e825c2edc8da" />
+<img width="1920" height="1080" alt="google-sheet png" src="https://github.com/user-attachments/assets/f03a02a5-ffc7-4801-9d3b-d4b884a13218" />
+<img width="1920" height="1080" alt="workflow-overview png" src="https://github.com/user-attachments/assets/18032654-f884-466b-b51f-f5910c27bb45" />
+screenshots/postman-response.png)
+
+
+
+##  Project Structure
+
+``
+Ai customer support agent/
+│
+├── README.md
+├── LICENSE
+├── workflow/
+│   └── AI Customer Support Agent.json
+├── screenshots/
+│   ├── workflow-overview.png
+│   ├── google-sheet.png
+│   ├── postman-request.png
+│   └── postman-response.png
+└── docs/
+```
+
+```
+## Future Improvements
+
+ Add conversation memory
+ Integrate WhatsApp Business API
+ Add Slack and Microsoft Teams notifications
+ Store conversations in PostgreSQL
+ Add confidence scoring
+ Escalate unknown requests to a human agent
+ Replace Google Sheets with a vector database for semantic search
+ Add authentication and rate limiting.
+
+ 
+ ##  Author
+
+Olumide Tolani
+
+AI Automation Engineer passionate about building intelligent workflow automations using AI, APIs, and modern automation tools.
+
+- LinkedIn: ([](https://www.linkedin.com/in/tolani-olumide-541823243/)
+- Portfolio: ([](https://lummyportfolio-phi.vercel.app/))
+- Email: (holumidetolani@gmail.com)
